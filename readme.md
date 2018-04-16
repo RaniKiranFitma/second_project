@@ -5,4 +5,4 @@ Rani_Kiran_Fatima
 ### Technology used
 html,css,java
 #####License and Copyright
-copyright (c)[GNU]() 2018 Rani_Kiran_Fatima
+copyright (c)[GNU](second_project/LICENSE) 2018 Rani_Kiran_Fatima
