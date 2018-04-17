@@ -6,3 +6,4 @@ Rani_Kiran_Fatima
 html,css,java
 ##### License and Copyright
 copyright (c)[GNU](second_project/LICENSE) 2018 Rani_Kiran_Fatima
+[Go To](https://github.com/RaniKiranFitma/second_project/blob/master/index.html)
